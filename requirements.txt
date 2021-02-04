@@ -5,6 +5,5 @@ s3fs
 python-snappy
 pyarrow
 confluent-kafka
-confluent-kafka[avro]
 requests
 avro
